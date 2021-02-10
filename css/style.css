@@ -24,4 +24,10 @@ h3{
     main-section{
         width: 70%;
     }
+    .love-section{
+        width: 100%;
+    }
+    h3{
+        font-size: 60px;
+    }
 }
